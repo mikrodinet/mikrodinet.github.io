@@ -6,6 +6,12 @@
 
   "start_url": "https://mikrodinet.github.io",
 
+  "sellerId": "pub-6827901881006590",
+
+  "sellerType": "PUBLISHER",
+
+  "name": "MIKRODINET",
+  
   "display": "standalone",
 
   "background_color": "#fff",
