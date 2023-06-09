@@ -1,0 +1,4 @@
+String url = "https://www.mikrodinet.eu.org";
+CustomTabsIntent intent = new CustomTabsIntent.Builder()
+        .build();
+intent.launchUrl(MainActivity.this, Uri.parse(url));
